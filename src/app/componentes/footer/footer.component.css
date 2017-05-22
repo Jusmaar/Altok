@@ -1,0 +1,13 @@
+footer{
+    background: #555;   
+    color: white;   
+    padding-top: 20px;
+}
+
+.iconos{
+    font-size: 35px;
+    float: right;   
+}
+.iconos i{
+    padding: 0px 10px 10px 10px;  
+}
