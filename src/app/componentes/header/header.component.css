@@ -8,5 +8,13 @@ header{
     top: 0;
     left: 0;
     z-index: 100;
+       
 }
-
+.navbar-brand{
+    display: flex;
+    width: 130px;
+    height: 75px;
+}
+.navbar-toggler-icon{
+    margin: 10px 0;
+}

@@ -1,0 +1,23 @@
+.container{
+    padding-top: 130px;
+}
+.nav-link{
+    color: green;
+    
+}
+.nav-tabs {
+    border-bottom: 1px solid green;
+}
+.nav-link.active{
+    border-color: green green transparent green;
+}
+.tab-content li{
+    padding: 10px 5px;
+    list-style-type: square;
+}
+.tab-content{
+    padding-top: 20px;
+}
+.tab-content li::before{
+    
+}
